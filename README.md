@@ -1,1 +1,2 @@
 # AnyEyeballs-Utils
+This repository includes the additional tools and results for the AnyEyeballs project. The code required to run the Happy Eyeballs survey is located in the HappyEyeballs Survey folder. AnyEyeballs visualizer contains the code required to create diagrams from the AnyEyeballs LBM logs. The simple Network.Framework test client is located in the TAPS test client folder. Finally, all the results and diagrams are located in the results folder. 
